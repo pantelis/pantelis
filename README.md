@@ -10,4 +10,4 @@
 
 ### Bio
 
-You can read my short bio [here](https://pantelis.github.io/engineering-ai-agents/about.html) and I blog at [aegean.ai](https://aegean.ai). 
+I blog at [aegean.ai](https://aegean.ai) and you can read my short bio [here](https://pantelis.github.io/engineering-ai-agents/about.html). 
